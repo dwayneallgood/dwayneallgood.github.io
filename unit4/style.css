@@ -1,0 +1,46 @@
+vhtml {
+  background-color: #D2386D;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #7CB8D7;
+  width: 80%;
+}
+
+Main {
+  background-color: lightgray;
+}
+
+
+
+p {
+  color: #F068A8;
+  background-color: antiquewhite;
+  font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+header {
+  background-color: #F068A8;
+  color: antiquewhite;
+  font-family: Bookman, URW Bookman L, serif;
+}
+
+h2 {
+  background-color: #B9C0D8;
+  color: antiquewhite;
+  font-family: "Comic Sans MS", Comic Sans, cursive;
+}
+
+h3 {
+  background-color: #EDB6D5;
+  color: antiquewhite;
+  font-family: "Lucida Console", Courier, monospace;
+  color: ;
+}
+
+footer {
+  background-color: #D2386D;
+  color: #F068A8
+}
